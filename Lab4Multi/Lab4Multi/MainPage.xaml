@@ -5,10 +5,10 @@
 
     <StackLayout>
         <Button x:Name="Item1" Text="Navigation" BackgroundColor="CadetBlue"/>
-        <Button x:Name="Item2" Text="TabbedPage1" BackgroundColor="Coral"/>
-        <Button x:Name="Item3" Text="CarouselPage" BackgroundColor="DarkOrchid"/>
-        <Button x:Name="Item5" Text="ModalPages" BackgroundColor="Gold"/>
-        <Button x:Name="Item6" Text="DisplayAlert" BackgroundColor="LightSalmon"/>
+        <Button x:Name="Item2" Text="TabbedPage1" BackgroundColor="CadetBlue"/>
+        <Button x:Name="Item3" Text="CarouselPage" BackgroundColor="CadetBlue"/>
+        <Button x:Name="Item5" Text="ModalPages" BackgroundColor="CadetBlue"/>
+        <Button x:Name="Item6" Text="DisplayAlert" BackgroundColor="CadetBlue"/>
     </StackLayout>
 
 </ContentPage>

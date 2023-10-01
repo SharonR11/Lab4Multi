@@ -8,10 +8,10 @@
             <Button Text="Close" x:Name="btnClose"/>
         </StackLayout>
     </ContentPage>
-    <ContentPage Title="Tab 2" BackgroundColor="DarkSeaGreen">
+    <ContentPage Title="Tab 2" BackgroundColor="DarkSlateGray">
         
     </ContentPage>
-    <ContentPage Title="Tab 3" BackgroundColor="BurlyWood">
+    <ContentPage Title="Tab 3" BackgroundColor="DarkSlateGray">
         
     </ContentPage>
 </TabbedPage>
